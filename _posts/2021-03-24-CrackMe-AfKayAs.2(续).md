@@ -2,7 +2,7 @@
 layout:     post
 title:      CrackMe之AfKayAs.2(续)
 subtitle:   160个CrackMe
-date:       2021-3-18
+date:       2021-3-24
 author:     heria
 header-img: img/post-bg-os-metro.jpg
 catalog: true
