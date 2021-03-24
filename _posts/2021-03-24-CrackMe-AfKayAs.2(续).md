@@ -1,4 +1,15 @@
-# 20210324 AfKayAs.2续
+---
+layout:     post
+title:      CrackMe之AfKayAs.2(续)
+subtitle:   160个CrackMe
+date:       2021-3-18
+author:     heria
+header-img: img/post-bg-os-metro.jpg
+catalog: true
+tags:
+---
+
+
 
 先前算法及注册机已经分析编写完毕，但是neg还为去除
 
