@@ -2,14 +2,12 @@
 layout:     post
 title:      CrackMe之AfKayAs.2.exe
 subtitle:   
-date:       2017-12-26
+date:       2021-3-18
 author:     heria
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
 ---
-
-# 2021/3/18  Crack Me   AfKayAs.2.exe
 
 ## 爆破法
 
