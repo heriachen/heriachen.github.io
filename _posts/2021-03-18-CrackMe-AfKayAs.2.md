@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      CrackMe之AfKayAs.2.exe
+title:      CrackMe之AfKayAs.2
 subtitle:   160个CrackMe
 date:       2021-3-18
 author:     heria
