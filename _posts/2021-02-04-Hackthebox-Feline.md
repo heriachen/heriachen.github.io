@@ -61,7 +61,7 @@ https://www.cybersecurity-help.cz/vdb/SB2020052124
 
 https://www.redtimmy.com/apache-tomcat-rce-by-deserialization-cve-2020-9484-write-up-and-exploit/
 
-![image-20210204170307853](C:\Users\Heria.Chen.GAIAWORKS\AppData\Roaming\Typora\typora-user-images\image-20210204170307853.png)
+![image-20210204170307853](https://raw.githubusercontent.com/heriachen/cloudimg/main/img/image-20210204170307853.png)
 
 首先创建反弹shell的payload 
 
