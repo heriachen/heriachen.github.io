@@ -2,7 +2,7 @@
 layout:     post
 title:      CVE-2021-3156漏洞复现
 subtitle:   Linux sudo权限提升漏洞
-date:       2020-02-01
+date:       2021-02-01
 author:     heria
 header-img: img/post_bg_wa.jpg
 catalog: true
