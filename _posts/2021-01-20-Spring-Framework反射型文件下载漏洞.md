@@ -4,7 +4,7 @@ title:      Spring Framework反射型文件下载漏洞复现
 subtitle:   Spring Framework漏洞
 date:       2021-01-20
 author:     heria
-header-img: img/post-bg-f.jpg
+header-img: img/post_bg_f.jpg
 catalog: true
 tags:
 ---
