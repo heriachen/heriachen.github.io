@@ -176,7 +176,7 @@ reg()
 
 ![image-20210401162232437](https://raw.githubusercontent.com/heriachen/cloudimg/main/img/image-20210401162232437.png)
 
-0x442C28和0x442C2B将之前计算结果和输入的Nome比对，不同则跳转。推测这就是“EIDQFY”就是之前输入的codice对应的验证码
+0x442C28和0x442C2B将之前计算结果和输入的Nome比对，不同则跳转。推测这里“EIDQFY”就是之前输入的codice对应的验证码
 
 ![image-20210401162313204](https://raw.githubusercontent.com/heriachen/cloudimg/main/img/image-20210401162313204.png)
 
