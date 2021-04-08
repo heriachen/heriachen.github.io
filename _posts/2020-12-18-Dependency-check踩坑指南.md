@@ -342,9 +342,9 @@ https://github.com/RetireJS/retire.js/blob/master/repository/jsrepository.json
 [ERROR] ----------------------------------------------------
 ```
 
-安装dotnet，具体步骤不展示，可自行搜索，需要注意的是有可能安装后依旧无法检测或报错，可能是dotnet的版本问题，dc v6.0.3安装dotnet 5.0.1后依旧报错并无法检测出dll漏洞，卸载dotnet并更换dotnet 3.1后可正常检测无报错.
+安装dotnet，可自行搜索，需要注意的是有可能安装后依旧无法检测或报错，可能是dotnet的版本问题，dc v6.0.3安装dotnet 5.0.1后依旧报错并无法检测出dll漏洞，卸载dotnet并更换dotnet 3.1后可正常检测无报错.
 
-centos7 安装
+centos7 安装dotnet指令
 
 sudo rpm -Uvh https://packages.microsoft.com/config/centos/7/packages-microsoft-prod.rpm
 
