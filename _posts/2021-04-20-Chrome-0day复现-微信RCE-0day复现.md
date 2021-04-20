@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Chrome 0day && 微信RCE 0day复现
-subtitle:   Chrome&&微信漏洞
+subtitle:   漏洞复现
 date:       2021-04-20
 author:     heria
 header-img: img/post-bg-009.jpg
@@ -11,12 +11,15 @@ tags:
 
 ## 前言
 
-前几日公开的0day漏洞，本质上属于同一个漏洞。
+4月13日披露的Chrome 0day，以及受此牵连的微信RCE 0day漏洞复现
 
-## Chrome漏洞简介
+## Chrome 0day描述
 
-2021年04月13日，国外安全研究员发布了Chrome远程代码执行0Day漏洞的POC详情
-Chrome是四大浏览器内核之一，统称为Chromium内核或Chrome内核。chrome是开放源代码的，目前采用Chrome内核的浏览器有著名的Google Chrome、360极速、搜狗、新版opera、yandex还有微软旗下Microsoft Edge等，总之，chrome内核在浏览器份额中，占比非常大
+2021年04月13日，国外安全研究员发布了Chrome远程代码执行0Day漏洞的POC详情。攻击者利用漏洞，构造一个恶意的web页面，用户访问该页面时，会造成远程代码执行。
+
+需要注意的是，该漏洞需要关闭浏览器的 `SandBox`功能，而该功能默认是开启的。（老版本微信内置chrome浏览器默认关闭sandbox，因此受到影响）
+
+换言之，正常使用浏览器，是不会被该漏洞利用的。
 
 ## 影响版本：
 
@@ -153,7 +156,7 @@ POC:
 
 
 
-## 微信0day简介
+## 微信0day描述
 
 windows 微信客户端下内置Chrome 浏览器，且默认关闭沙箱模式,因此老版本微信受到了上面漏洞的影响。
 
