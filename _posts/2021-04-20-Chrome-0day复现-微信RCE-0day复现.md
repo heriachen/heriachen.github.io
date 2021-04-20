@@ -9,9 +9,7 @@ catalog: true
 tags:
 ---
 
-
-
-# Chrome 0day复现+微信RCE 0day复现
+## 前言
 
 前几日公开的0day漏洞，本质上属于同一个漏洞。
 
@@ -20,11 +18,9 @@ tags:
 2021年04月13日，国外安全研究员发布了Chrome远程代码执行0Day漏洞的POC详情
 Chrome是四大浏览器内核之一，统称为Chromium内核或Chrome内核。chrome是开放源代码的，目前采用Chrome内核的浏览器有著名的Google Chrome、360极速、搜狗、新版opera、yandex还有微软旗下Microsoft Edge等，总之，chrome内核在浏览器份额中，占比非常大
 
-
-
 ## 影响版本：
 
-Google:Chrome: <=89.0.4389.114，操作系统版本win10
+Google:Chrome: <=89.0.4389.114
 
 ## 复现：
 
@@ -147,7 +143,7 @@ POC:
 
 
 
-控制台输入chrome.exe路径 跟上--no-sandbox
+控制台输入chrome.exe路径 加上--no-sandbox
 
 ![image-20210420133243340](https://raw.githubusercontent.com/heriachen/cloudimg/main/img2/image-20210420133243340.png)
 
@@ -159,9 +155,7 @@ POC:
 
 ## 微信0day简介
 
-windows 微信客户端下内置的 Chrome 浏览器默认关闭沙箱模式,因此老版本微信受到了上面漏洞的影响。
-
-影响版本
+windows 微信客户端下内置Chrome 浏览器，且默认关闭沙箱模式,因此老版本微信受到了上面漏洞的影响。
 
 ## **影响版本**
 
@@ -375,9 +369,9 @@ try{
 
 ![image-20210420143713653](https://raw.githubusercontent.com/heriachen/cloudimg/main/img2/image-20210420143713653.png)
 
-http://119.45.55.187/shell.html 将该链接发送给受害主机，即微信客户端，
+http://119.45.55.187/shell.html 将该链接发送给受害主机，
 
-使用微信默认浏览器打开链接
+受害主机使用微信客户端默认浏览器打开链接
 
 ![image-20210420144236195](https://raw.githubusercontent.com/heriachen/cloudimg/main/img2/image-20210420144236195.png)
 
