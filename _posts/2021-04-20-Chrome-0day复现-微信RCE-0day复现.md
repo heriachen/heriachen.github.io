@@ -372,7 +372,11 @@ try{
 
 ![image-20210420143713653](https://raw.githubusercontent.com/heriachen/cloudimg/main/img2/image-20210420143713653.png)
 
-http://119.45.55.187/shell.html 将该链接发送给受害主机，
+http://119.45.55.187/shell.html 将该链接发送给受害主机
+
+受害主机微信版本为3.0.0.47
+
+![image-20210420151343400](https://raw.githubusercontent.com/heriachen/cloudimg/main/img2/image-20210420151343400.png)
 
 受害主机使用微信客户端默认浏览器打开链接
 
