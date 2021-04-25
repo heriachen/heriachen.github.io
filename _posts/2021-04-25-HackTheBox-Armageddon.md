@@ -63,7 +63,7 @@ drupal默认数据库配置文件位置/sites/default/settings.php，在sites/de
 
 ![image-20210425101802605](https://raw.githubusercontent.com/heriachen/cloudimg/main/img2/image-20210425101802605.png)
 
-找到用户名brucetherealadmin 即密码hash
+找到用户名brucetherealadmin 以及密码hash
 
 $S$DgL2gjv6ZtxBo6CdqZEyJuBphBmrCqIV6W97.oOsUf1xAhaadURt
 
