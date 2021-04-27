@@ -81,7 +81,7 @@ ssh brucetherealadmin@10.10.10.233
 
 ![image-20210425102926939](https://raw.githubusercontent.com/heriachen/cloudimg/main/img2/image-20210425102926939.png)
 
-![image-20210425102949246](https://raw.githubusercontent.com/heriachen/cloudimg/main/img2/image-20210425102949246.png)
+![image-20210427142606349](https://raw.githubusercontent.com/heriachen/cloudimg/main/img2/image-20210427142606349.png)
 
 ## 提权
 
