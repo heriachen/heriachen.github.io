@@ -4,7 +4,7 @@ title:      HackTheBox Tenet
 subtitle:   HackTheBox
 date:       2021-04-27
 author:     heria
-header-img: img/post-bg-012.jpg
+header-img: img/post-bg-013.jpg
 catalog: true
 tags:
 ---
