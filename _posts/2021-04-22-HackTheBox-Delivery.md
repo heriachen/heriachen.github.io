@@ -114,7 +114,7 @@ open a new ticket
 
 目前可以查看user.txt
 
-![image-20210422091927683](https://raw.githubusercontent.com/heriachen/cloudimg/main/img2/image-20210422091927683.png)
+![image-20210427142715653](https://raw.githubusercontent.com/heriachen/cloudimg/main/img2/image-20210427142715653.png)
 
 ## 提权
 
@@ -227,7 +227,7 @@ wordlist.txt是我们用于直接模式攻击的“词典”。
 
 su - root切到root输入密码
 
-![image-20210422110320294](https://raw.githubusercontent.com/heriachen/cloudimg/main/img2/image-20210422110320294.png)
+![image-20210427142734090](https://raw.githubusercontent.com/heriachen/cloudimg/main/img2/image-20210427142734090.png)
 
 获取root.txt
 
