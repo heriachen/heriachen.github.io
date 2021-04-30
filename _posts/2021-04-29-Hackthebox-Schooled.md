@@ -4,7 +4,7 @@ title:      HackTheBox Schooled
 subtitle:   HackTheBox
 date:       2021-04-30
 author:     heria
-header-img: img/post-bg-015.jpg
+header-img: img/post-bg-015.jpeg
 catalog: true
 tags:
 ---
