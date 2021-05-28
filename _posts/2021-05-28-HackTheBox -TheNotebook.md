@@ -134,8 +134,6 @@ cat 抓取内容，之后复制到kali攻击机
 
 ![image-20210528145135701](https://raw.githubusercontent.com/heriachen/cloudimg/main/img3/image-20210528145135701.png)
 
-eccb7f5355deb19cad62dd98368d1c3e
-
 拿到user.txt中的flag
 
 ![image-20210528145227227](https://raw.githubusercontent.com/heriachen/cloudimg/main/img3/image-20210528145227227.png)
@@ -196,4 +194,3 @@ sudo /usr/bin/docker exec -it webapp-dev01 /bin/sh
 
 ![image-20210528153432069](https://raw.githubusercontent.com/heriachen/cloudimg/main/img3/image-20210528153432069.png)
 
-62099600743ce1dfeca97f7ae07692fc
