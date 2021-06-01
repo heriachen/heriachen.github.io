@@ -9,7 +9,7 @@ catalog: true
 tags:
 ---
 
-![image-20210528164955544](C:\Users\Heria.Chen.GAIAWORKS\AppData\Roaming\Typora\typora-user-images\image-20210528164955544.png)
+![image-20210601113038863](https://raw.githubusercontent.com/heriachen/cloudimg/main/img3/image-20210601113038863.png)
 
 ## 信息收集
 
