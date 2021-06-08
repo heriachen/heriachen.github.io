@@ -4,7 +4,7 @@ title:      HackTheBox Ophiuchi
 subtitle:   HackTheBox
 date:       2021-06-08
 author:     heria
-header-img: img/post-bg-028.jpg
+header-img: img/post-bg-029.jpg
 catalog: true
 tags:
 ---
